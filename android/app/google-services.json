@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "135060147223",
+    "project_id": "cruid-cloud",
+    "storage_bucket": "cruid-cloud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135060147223:android:92ca6d86f570e788446052",
+        "android_client_info": {
+          "package_name": "com.example.cruid_cloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135060147223-emu47cu2tqti7eopqjf3nhh8nmplffov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6WYi7MEu40ql1NO5fy9Xo0LL4_otfZRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135060147223-emu47cu2tqti7eopqjf3nhh8nmplffov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
